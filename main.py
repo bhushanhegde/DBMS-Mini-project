@@ -13,7 +13,7 @@ from datetime import datetime
 import time
 
 
-db=mysql.connector.connect(host='localhost',user='root',passwd='bhushi',database='farmer_app')
+db=mysql.connector.connect(host='localhost',user='root',passwd='PASSWORD',database='DATABASENAME')
 cur=db.cursor()
 
 
