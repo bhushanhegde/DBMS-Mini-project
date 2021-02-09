@@ -1,4 +1,5 @@
 #Back end code to create table using SQL
+#Use these codes to create tables.
 '''
 #SQL Table Creation
 
